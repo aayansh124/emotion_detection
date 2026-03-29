@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 😊 Emotion Detection using Deep Learning
 
 ## 🚀 Overview
@@ -121,3 +122,7 @@ python app.py
 Give it a ⭐ on GitHub!
 
 ---
+=======
+# emotion_detection
+Detect emotion from picture
+>>>>>>> 702c07dea132d30189cba2f851c2f9797353865d
